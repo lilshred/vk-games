@@ -1,0 +1,14 @@
+Звуки и музыка — бесплатные ассеты с лицензией CC0 (общественное достояние,
+можно использовать в коммерческих проектах без указания автора):
+
+- pop*.mp3, star.mp3, click.mp3, wrong.mp3, pick.mp3 — Kenney, «Interface Sounds» (glass_002/003/005/006, confirmation_003, click_001, error_004, pluck_002), https://kenney.nl/assets/interface-sounds
+- special.mp3, rainbow.mp3, fail.mp3, combo.mp3, revive.mp3 — Kenney, «Digital Audio» (powerUp2, phaserUp3, lowThreeTone, phaserUp5, powerUp7), https://kenney.nl/assets/digital-audio
+- land.mp3, bomb.mp3 — Kenney, «Impact Sounds» (impactSoft_medium, impactMining), https://kenney.nl/assets/impact-sounds
+- record.mp3 — Kenney, «Music Jingles» (jingles_SAX03), https://kenney.nl/assets/music-jingles
+- coin*.mp3 — Kenney, «Casino Audio» (chip-lay), https://kenney.nl/assets/casino-audio
+- music.mp3 — Zane Little Music, «Flowerbed Fields [Loop]», https://opengameart.org/content/flowerbed-fields-loop
+
+Лицензия CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Иконки и мордочки зверей (public/img/*.svg) — Microsoft Fluent Emoji, лицензия MIT,
+https://github.com/microsoft/fluentui-emoji (текст лицензии — public/img/LICENSE-fluent-emoji.txt).
