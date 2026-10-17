@@ -1,0 +1,11 @@
+Звуки и музыка — бесплатные ассеты с лицензией CC0 (общественное достояние,
+можно использовать в коммерческих проектах без указания автора):
+
+- pop*.mp3, swap.mp3, wrong.mp3, star.mp3, click.mp3 — Kenney, «Interface Sounds» (glass_002/003/005/006, maximize_001, error_004, confirmation_003, click_001), https://kenney.nl/assets/interface-sounds
+- line.mp3, rainbow.mp3, special.mp3, fail.mp3 — Kenney, «Digital Audio» (laser6, phaserUp3, powerUp2, lowThreeTone), https://kenney.nl/assets/digital-audio
+- bomb.mp3, land.mp3, ice.mp3, stone.mp3, hammer.mp3 — Kenney, «Impact Sounds» (impactMining, impactSoft_medium, impactGlass_light, impactMetal_heavy, impactPunch_heavy), https://kenney.nl/assets/impact-sounds
+- win.mp3 — Kenney, «Music Jingles» (jingles_SAX07), https://kenney.nl/assets/music-jingles
+- coin*.mp3 — Kenney, «Casino Audio» (chip-lay), https://kenney.nl/assets/casino-audio
+- music.mp3 — Zane Little Music, «Flowerbed Fields [Loop]», https://opengameart.org/content/flowerbed-fields-loop
+
+Лицензия CC0: https://creativecommons.org/publicdomain/zero/1.0/
