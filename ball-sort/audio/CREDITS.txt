@@ -1,0 +1,9 @@
+Звуки и музыка — бесплатные ассеты с лицензией CC0 (общественное достояние,
+можно использовать в коммерческих проектах без указания автора):
+
+- drop*.mp3, cork.mp3 — Kenney, «Impact Sounds» (impactGlass_light, impactWood_light), https://kenney.nl/assets/impact-sounds
+- pick.mp3, click.mp3, wrong.mp3 — Kenney, «Interface Sounds» (pluck_001, click_001, error_004), https://kenney.nl/assets/interface-sounds
+- coin*.mp3 — Kenney, «Casino Audio» (chips-stack), https://kenney.nl/assets/casino-audio
+- music.mp3 — MintoDog, «Cozy Puzzle In-Game 2», https://opengameart.org/node/185146
+
+Лицензия CC0: https://creativecommons.org/publicdomain/zero/1.0/
