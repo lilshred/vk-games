@@ -1,0 +1,13 @@
+Звуки и музыка — бесплатные ассеты с лицензией CC0 (общественное достояние,
+можно использовать в коммерческих проектах без указания автора):
+
+- tap*.mp3, buy*.mp3, coin*.mp3 — Kenney, «Casino Audio» (chips-collide, chips-stack, chip-lay), https://kenney.nl/assets/casino-audio
+- tierup.mp3, fanfare.mp3 — Kenney, «Music Jingles» (jingles_STEEL01, jingles_STEEL06), https://kenney.nl/assets/music-jingles
+- frenzy.mp3, deal.mp3 — Kenney, «Digital Audio» (powerUp3, threeTone1), https://kenney.nl/assets/digital-audio
+- wrong.mp3, click.mp3 — Kenney, «Interface Sounds» (error_004, click_001), https://kenney.nl/assets/interface-sounds
+- music.mp3 — omfgdude, «Funky Hip Hop Lofi Jam», https://opengameart.org/content/funky-hip-hop-lofi-jam
+
+Лицензия CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Иконки предметов и бизнесов (public/img/*.svg) — Microsoft Fluent Emoji, лицензия MIT,
+https://github.com/microsoft/fluentui-emoji (текст лицензии — public/img/LICENSE-fluent-emoji.txt).
