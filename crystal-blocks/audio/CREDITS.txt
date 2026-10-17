@@ -1,0 +1,14 @@
+Звуки и музыка — бесплатные ассеты с лицензией CC0 (общественное достояние,
+можно использовать в коммерческих проектах без указания автора):
+
+- place*.mp3, clear.mp3 — Kenney, «Impact Sounds» (impactWood_light, impactGlass_heavy), https://kenney.nl/assets/impact-sounds
+- shine.mp3, pick.mp3, back.mp3, wrong.mp3, click.mp3 — Kenney, «Interface Sounds» (glass_004, pluck_002, minimize_002, error_004, click_001), https://kenney.nl/assets/interface-sounds
+- combo.mp3, revive.mp3, over.mp3 — Kenney, «Digital Audio» (phaserUp5, powerUp7, lowDown), https://kenney.nl/assets/digital-audio
+- record.mp3 — Kenney, «Music Jingles» (jingles_SAX03), https://kenney.nl/assets/music-jingles
+- coin*.mp3 — Kenney, «Casino Audio» (chip-lay), https://kenney.nl/assets/casino-audio
+- music.mp3 — Zane Little Music, «Apple Cider», https://opengameart.org/content/apple-cider
+
+Лицензия CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Иконки (public/img/*.svg) — Microsoft Fluent Emoji, лицензия MIT,
+https://github.com/microsoft/fluentui-emoji (текст лицензии — public/img/LICENSE-fluent-emoji.txt).
